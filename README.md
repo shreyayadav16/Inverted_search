@@ -24,4 +24,5 @@ compile the project using GCC:
 # Execution
 Run the program by passing input text files: 
   ./inverted_search file1.txt file2.txt
+  
  
